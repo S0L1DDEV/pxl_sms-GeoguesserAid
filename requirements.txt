@@ -1,0 +1,30 @@
+# Core ML frameworks
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+
+# Dataset handling
+datasets>=2.12.0
+
+# Web dashboard
+streamlit>=1.28.0
+
+# Image processing
+pillow>=10.0.0
+opencv-python>=4.8.0
+
+# Screenshot capture
+pyautogui>=0.9.54
+
+# Utilities
+numpy>=1.24.0
+requests>=2.31.0
+
+# Optional: Accelerated training (uncomment if using)
+# accelerate>=0.20.0
+
+# Optional: Weights & Biases for experiment tracking (uncomment if using)
+# wandb>=0.15.0
+
+# Optional: TensorBoard for visualization (uncomment if using)
+# tensorboard>=2.13.0
